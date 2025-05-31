@@ -18,6 +18,3 @@ cookie:
   key: random_signature_key_12345  # Changez cette clé !
   expiry_days: 30
 
-preauthorized:
-  emails:
-    - a.a.boucherite@gmail.com
